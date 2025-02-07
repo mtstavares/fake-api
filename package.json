@@ -4,10 +4,9 @@
     "description": "API Fake usando JSON Server no Render",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "dependencies": {
-    "json-server": "^1.0.0-beta.3"
-  }
-  }
-  
+        "json-server": "^1.0.0-beta.3"
+    }
+}
